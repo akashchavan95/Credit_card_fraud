@@ -1,4 +1,4 @@
-# Credit_card_fraud
+# Credit_card_fraud_Detection
 
 Given all possible hypotheses and considering the feasibility and customer time, the most suitable solution is to implement a fraud detection system. This does not affect the customer’s time with extra OTP checks on all transactions and is also quite feasible, as educating all customers on various fraudulent techniques is a challenging task. Building a fraud detection system is a one time procedure and deploying this would be a permanent resolution to the long time blocker that the banks have been facing since years.
 
